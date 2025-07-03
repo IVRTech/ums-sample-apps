@@ -9,7 +9,9 @@ Use the web page  [unimrcp](http://www.unimrcp.org/) to explore documentations a
 
 
 ## NOTE
-applicable freeswitch version is 1.8(if you build from source) or 1.10.5.release.8-1.el7 
+applicable freeswitch version is 1.10(build from source) or 1.10.5.release.8-1.el7 
+
+## NOTE if freeswitch version is higher use mod_unimrcp with changes https://github.com/freeswitch/mod_unimrcp/pull/32 
 
 ## freeswitch deployment on centos with rpms
 ```bash
